@@ -28,7 +28,7 @@ Az alkalmazás az LZString metódust használja. Mentéskor a rendszer összefű
 
 ## 📄 Licenc
 
-Ez a projekt nyílt forráskódú. Felhasználható és módosítható, feltéve, hogy a "Powered by PasteShare" branding megjelölés látható marad a kliensoldali script előírásai szerint.
+Ez a projekt nyílt forráskódú. Felhasználható és módosítható, feltéve, hogy a "Powered by PasteShare" branding megjelölés látható marad a saját példányodon is.
 
 ---
 **Fejlesztette:** [Olcsa123Dev](https://github.com/Olcsa123Dev)
