@@ -7,7 +7,6 @@ A **PasteShare** egy ultra-minimalista, nyílt forráskódú, kliensoldali titko
 - **Zéró Backend:** Nincs szükség adatbázisra vagy szerveroldali nyelvre (PHP, Node.js, stb.).
 - **Kliensoldali Titkosítás:** Az adatok tömörítése és kódolása az `LZ-String` algoritmus segítségével a böngésződben történik.
 - **URL-alapú Tárolás:** Minden adat a böngésző címsorában (hash) tárolódik. Ha nincs meg a link, az adat sem létezik.
-- **Önvédelmi Funkció:** Beépített integritás-ellenőrzés, amely megakadályozza a branding eltávolítását.
 
 ## 🛠️ Telepítés és használat
 
